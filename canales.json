@@ -1,0 +1,930 @@
+[
+ {
+  "moai_id": "24_7_canal_de_noticias",
+  "nombre": "24/7 Canal de Noticias",
+  "site": "mi.tv",
+  "site_id": "ar#24-7-canal-de-noticias",
+  "nombre_fuente": "24/7 Canal de Noticias",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "8_telefe_cordoba",
+  "nombre": "8 Telefe Córdoba",
+  "site": "mi.tv",
+  "site_id": "ar#teleocho",
+  "nombre_fuente": "Telefe Córdoba",
+  "como": "parecido"
+ },
+ {
+  "moai_id": "a_e",
+  "nombre": "A&E",
+  "site": "mi.tv",
+  "site_id": "ar#a-e-mundo",
+  "nombre_fuente": "A&E",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "a24",
+  "nombre": "A24",
+  "site": "mi.tv",
+  "site_id": "ar#america-24",
+  "nombre_fuente": "A24",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "amc",
+  "nombre": "AMC",
+  "site": "mi.tv",
+  "site_id": "ar#amc",
+  "nombre_fuente": "AMC",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "america_sports",
+  "nombre": "América Sports",
+  "site": "mi.tv",
+  "site_id": "ar#america-sports",
+  "nombre_fuente": "América Sports",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "america_tv",
+  "nombre": "AMÉRICA TV",
+  "site": "mi.tv",
+  "site_id": "ar#america-2-capital",
+  "nombre_fuente": "América TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "animal_planet",
+  "nombre": "Animal Planet",
+  "site": "mi.tv",
+  "site_id": "ar#animal-planet",
+  "nombre_fuente": "Animal Planet",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "axn",
+  "nombre": "AXN",
+  "site": "mi.tv",
+  "site_id": "ar#axn",
+  "nombre_fuente": "AXN",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "baby_tv",
+  "nombre": "Baby TV",
+  "site": "mi.tv",
+  "site_id": "ar#babytv",
+  "nombre_fuente": "BabyTV",
+  "como": "manual"
+ },
+ {
+  "moai_id": "bloomberg",
+  "nombre": "Bloomberg",
+  "site": "mi.tv",
+  "site_id": "ar#bloomberg",
+  "nombre_fuente": "Bloomberg",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "c5n",
+  "nombre": "C5N",
+  "site": "mi.tv",
+  "site_id": "ar#c5n",
+  "nombre_fuente": "C5N",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_a",
+  "nombre": "Canal (á)",
+  "site": "mi.tv",
+  "site_id": "ar#canal-a",
+  "nombre_fuente": "Canal á",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_26",
+  "nombre": "Canal 26",
+  "site": "mi.tv",
+  "site_id": "ar#26-tv",
+  "nombre_fuente": "Canal 26",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_5",
+  "nombre": "CANAL 5",
+  "site": "mi.tv",
+  "site_id": "ar#tv-5",
+  "nombre_fuente": "TV 5",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_de_la_ciudad",
+  "nombre": "Canal de la Ciudad",
+  "site": "mi.tv",
+  "site_id": "ar#ciudad-abierta",
+  "nombre_fuente": "Canal de la Ciudad",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_de_las_estrellas",
+  "nombre": "Canal de Las Estrellas",
+  "site": "mi.tv",
+  "site_id": "ar#canal-de-las-estrellas",
+  "nombre_fuente": "Las Estrellas",
+  "como": "manual"
+ },
+ {
+  "moai_id": "canal_encuentro",
+  "nombre": "Canal Encuentro",
+  "site": "mi.tv",
+  "site_id": "ar#encuentro",
+  "nombre_fuente": "Encuentro",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_luz",
+  "nombre": "Canal Luz",
+  "site": "mi.tv",
+  "site_id": "ar#canal-luz",
+  "nombre_fuente": "Canal Luz",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_orbe_21",
+  "nombre": "Canal Orbe 21",
+  "site": "mi.tv",
+  "site_id": "ar#canal-orbe-21",
+  "nombre_fuente": "Canal Orbe 21",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "canal_rural",
+  "nombre": "Canal Rural",
+  "site": "mi.tv",
+  "site_id": "ar#canal-rural",
+  "nombre_fuente": "Canal Rural",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cartoon_network",
+  "nombre": "Cartoon Network",
+  "site": "mi.tv",
+  "site_id": "ar#cartoon-network",
+  "nombre_fuente": "Cartoon Network",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cartoonito",
+  "nombre": "Cartoonito",
+  "site": "mi.tv",
+  "site_id": "ar#boomerang-cartoon",
+  "nombre_fuente": "Cartoonito",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cine_ar",
+  "nombre": "Cine.AR",
+  "site": "mi.tv",
+  "site_id": "ar#incaa-tv",
+  "nombre_fuente": "CineAr",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cinecanal",
+  "nombre": "CineCanal",
+  "site": "mi.tv",
+  "site_id": "ar#cinecanal",
+  "nombre_fuente": "Cinecanal",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cinemax",
+  "nombre": "Cinemax",
+  "site": "mi.tv",
+  "site_id": "ar#cinemax",
+  "nombre_fuente": "Cinemax",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "ciudad_magazine",
+  "nombre": "Ciudad Magazine",
+  "site": "mi.tv",
+  "site_id": "ar#magazine",
+  "nombre_fuente": "Ciudad Magazine",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cnn_en_espanol",
+  "nombre": "CNN EN ESPAÑOL",
+  "site": "mi.tv",
+  "site_id": "ar#cnn-en-espanol",
+  "nombre_fuente": "CNN en Español",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cnn_international",
+  "nombre": "CNN International",
+  "site": "mi.tv",
+  "site_id": "ar#cnn",
+  "nombre_fuente": "CNN",
+  "como": "manual"
+ },
+ {
+  "moai_id": "comedy_central",
+  "nombre": "Comedy Central",
+  "site": "mi.tv",
+  "site_id": "ar#comedy-central",
+  "nombre_fuente": "Comedy Central",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "construir_tv",
+  "nombre": "Construir TV",
+  "site": "mi.tv",
+  "site_id": "ar#construir",
+  "nombre_fuente": "Construir TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "cronica_tv",
+  "nombre": "Crónica TV",
+  "site": "mi.tv",
+  "site_id": "ar#cronica",
+  "nombre_fuente": "Cronica",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "deportv",
+  "nombre": "DeporTV",
+  "site": "mi.tv",
+  "site_id": "ar#dxtv",
+  "nombre_fuente": "DeporTV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_channel",
+  "nombre": "Discovery Channel",
+  "site": "mi.tv",
+  "site_id": "ar#discovery",
+  "nombre_fuente": "Discovery Channel",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_id",
+  "nombre": "Discovery ID",
+  "site": "mi.tv",
+  "site_id": "ar#investigation-discovery",
+  "nombre_fuente": "Investigation Discovery",
+  "como": "manual"
+ },
+ {
+  "moai_id": "discovery_kids",
+  "nombre": "Discovery Kids",
+  "site": "mi.tv",
+  "site_id": "ar#discovery-kids",
+  "nombre_fuente": "Discovery Kids",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_science",
+  "nombre": "Discovery Science",
+  "site": "mi.tv",
+  "site_id": "ar#discovery-science",
+  "nombre_fuente": "Discovery Science",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_theater",
+  "nombre": "Discovery Theater",
+  "site": "mi.tv",
+  "site_id": "ar#discovery-hd-theater",
+  "nombre_fuente": "Discovery Theater",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_turbo",
+  "nombre": "Discovery Turbo",
+  "site": "mi.tv",
+  "site_id": "ar#discovery-turbo",
+  "nombre_fuente": "Discovery Turbo",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "discovery_world",
+  "nombre": "Discovery World",
+  "site": "mi.tv",
+  "site_id": "ar#discovery-world-hd",
+  "nombre_fuente": "Discovery World",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "disney",
+  "nombre": "Disney",
+  "site": "mi.tv",
+  "site_id": "ar#disney",
+  "nombre_fuente": "Disney Channel",
+  "como": "manual"
+ },
+ {
+  "moai_id": "disney_channel",
+  "nombre": "Disney Channel",
+  "site": "mi.tv",
+  "site_id": "ar#disney",
+  "nombre_fuente": "Disney Channel",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "disney_junior",
+  "nombre": "Disney Junior",
+  "site": "mi.tv",
+  "site_id": "ar#disney-jr",
+  "nombre_fuente": "Disney Junior",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "e_entertaiment",
+  "nombre": "E-Entertaiment",
+  "site": "mi.tv",
+  "site_id": "ar#entertainment",
+  "nombre_fuente": "E!",
+  "como": "manual"
+ },
+ {
+  "moai_id": "el_gourmet",
+  "nombre": "El Gourmet",
+  "site": "mi.tv",
+  "site_id": "ar#el-gourmet",
+  "nombre_fuente": "El Gourmet",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "el_trece",
+  "nombre": "El Trece",
+  "site": "mi.tv",
+  "site_id": "ar#el-trece",
+  "nombre_fuente": "Canal 13",
+  "como": "manual"
+ },
+ {
+  "moai_id": "elnueve",
+  "nombre": "elnueve",
+  "site": "mi.tv",
+  "site_id": "ar#canal-9",
+  "nombre_fuente": "Canal 9",
+  "como": "manual"
+ },
+ {
+  "moai_id": "espn",
+  "nombre": "ESPN",
+  "site": "mi.tv",
+  "site_id": "ar#espn",
+  "nombre_fuente": "ESPN",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "espn_5",
+  "nombre": "ESPN",
+  "site": "mi.tv",
+  "site_id": "ar#espn",
+  "nombre_fuente": "ESPN",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "espn_2",
+  "nombre": "ESPN 2",
+  "site": "mi.tv",
+  "site_id": "ar#espn-2",
+  "nombre_fuente": "ESPN 2",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "espn_2_2",
+  "nombre": "ESPN 2",
+  "site": "mi.tv",
+  "site_id": "ar#espn-2",
+  "nombre_fuente": "ESPN 2",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "espn_3",
+  "nombre": "ESPN 3",
+  "site": "mi.tv",
+  "site_id": "ar#espn-3",
+  "nombre_fuente": "ESPN 3",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "espn_3_2",
+  "nombre": "ESPN 3",
+  "site": "mi.tv",
+  "site_id": "ar#espn-3",
+  "nombre_fuente": "ESPN 3",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "europa_europa",
+  "nombre": "Europa Europa",
+  "site": "mi.tv",
+  "site_id": "ar#europa-europa",
+  "nombre_fuente": "Europa Europa",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "ewtn",
+  "nombre": "EWTN",
+  "site": "mi.tv",
+  "site_id": "ar#ewtn",
+  "nombre_fuente": "EWTN",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "film_arts",
+  "nombre": "Film & Arts",
+  "site": "mi.tv",
+  "site_id": "ar#film-arts",
+  "nombre_fuente": "film&arts",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "food_network",
+  "nombre": "Food Network",
+  "site": "mi.tv",
+  "site_id": "ar#food-network",
+  "nombre_fuente": "Food Network",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "fox_sports",
+  "nombre": "FOX Sports",
+  "site": "mi.tv",
+  "site_id": "ar#fox-sports-hd",
+  "nombre_fuente": "FOX Sports HD",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "fox_sports_2",
+  "nombre": "FOX Sports 2",
+  "site": "mi.tv",
+  "site_id": "ar#fox-sports-2",
+  "nombre_fuente": "FOX Sports 2",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "fox_sports_3",
+  "nombre": "FOX Sports 3",
+  "site": "mi.tv",
+  "site_id": "ar#fox-sports-3",
+  "nombre_fuente": "FOX Sports 3",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "france_24_espanol",
+  "nombre": "France 24 Español",
+  "site": "mi.tv",
+  "site_id": "ar#france-24-espanol",
+  "nombre_fuente": "France 24 en Español",
+  "como": "parecido"
+ },
+ {
+  "moai_id": "fx",
+  "nombre": "FX",
+  "site": "mi.tv",
+  "site_id": "ar#fx",
+  "nombre_fuente": "FX",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "garage_tv",
+  "nombre": "Garage TV",
+  "site": "mi.tv",
+  "site_id": "ar#el-garage",
+  "nombre_fuente": "El Garage Tv",
+  "como": "parecido"
+ },
+ {
+  "moai_id": "golden",
+  "nombre": "GOLDEN",
+  "site": "mi.tv",
+  "site_id": "ar#golden",
+  "nombre_fuente": "Golden",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "golden_edge",
+  "nombre": "GOLDEN EDGE",
+  "site": "mi.tv",
+  "site_id": "ar#golden-edge",
+  "nombre_fuente": "Golden Edge",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "golf_channel",
+  "nombre": "Golf Channel",
+  "site": "mi.tv",
+  "site_id": "ar#golf-channel",
+  "nombre_fuente": "Golf Channel",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo",
+  "nombre": "HBO",
+  "site": "mi.tv",
+  "site_id": "ar#hbo",
+  "nombre_fuente": "HBO",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_2",
+  "nombre": "HBO 2",
+  "site": "mi.tv",
+  "site_id": "ar#hbo-2",
+  "nombre_fuente": "HBO 2",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_family",
+  "nombre": "HBO Family",
+  "site": "mi.tv",
+  "site_id": "ar#hbo-family",
+  "nombre_fuente": "HBO Family",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_mundi",
+  "nombre": "HBO Mundi",
+  "site": "mi.tv",
+  "site_id": "ar#max",
+  "nombre_fuente": "HBO Mundi",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_plus",
+  "nombre": "HBO Plus",
+  "site": "mi.tv",
+  "site_id": "ar#hbo-plus-pan-regional",
+  "nombre_fuente": "HBO Plus Panregional",
+  "como": "manual"
+ },
+ {
+  "moai_id": "hbo_pop",
+  "nombre": "HBO Pop",
+  "site": "mi.tv",
+  "site_id": "ar#max-up",
+  "nombre_fuente": "HBO Pop",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_signature",
+  "nombre": "HBO Signature",
+  "site": "mi.tv",
+  "site_id": "ar#hbo-signature",
+  "nombre_fuente": "HBO Signature",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hbo_xtreme",
+  "nombre": "HBO Xtreme",
+  "site": "mi.tv",
+  "site_id": "ar#max-prime",
+  "nombre_fuente": "HBO Xtreme",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "hgtv",
+  "nombre": "HGTV",
+  "site": "mi.tv",
+  "site_id": "ar#hgtv",
+  "nombre_fuente": "HGTV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "history",
+  "nombre": "History",
+  "site": "mi.tv",
+  "site_id": "ar#history",
+  "nombre_fuente": "History",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "history_2",
+  "nombre": "History 2",
+  "site": "mi.tv",
+  "site_id": "ar#h2",
+  "nombre_fuente": "History 2",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "htv",
+  "nombre": "HTV",
+  "site": "mi.tv",
+  "site_id": "ar#htv",
+  "nombre_fuente": "HTV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "las_estrellas",
+  "nombre": "LAS ESTRELLAS",
+  "site": "mi.tv",
+  "site_id": "ar#canal-de-las-estrellas",
+  "nombre_fuente": "Las Estrellas",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "lifetime",
+  "nombre": "Lifetime",
+  "site": "mi.tv",
+  "site_id": "ar#lifetime",
+  "nombre_fuente": "Lifetime",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "metro",
+  "nombre": "Metro",
+  "site": "mi.tv",
+  "site_id": "ar#metro",
+  "nombre_fuente": "Metro",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "mtv",
+  "nombre": "MTV",
+  "site": "mi.tv",
+  "site_id": "ar#mtv",
+  "nombre_fuente": "MTV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "national_geographic",
+  "nombre": "National Geographic",
+  "site": "mi.tv",
+  "site_id": "ar#national-geographic",
+  "nombre_fuente": "National Geographic",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "nba",
+  "nombre": "NBA",
+  "site": "mi.tv",
+  "site_id": "ar#nba-tv",
+  "nombre_fuente": "NBA TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "net_tv",
+  "nombre": "Net TV",
+  "site": "mi.tv",
+  "site_id": "ar#net-tv",
+  "nombre_fuente": "Net TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "nick_jr",
+  "nombre": "Nick Jr",
+  "site": "mi.tv",
+  "site_id": "ar#nick-jr",
+  "nombre_fuente": "Nick Jr.",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "nickelodeon",
+  "nombre": "Nickelodeon",
+  "site": "mi.tv",
+  "site_id": "ar#nickelodeon",
+  "nombre_fuente": "Nick",
+  "como": "manual"
+ },
+ {
+  "moai_id": "paka_paka",
+  "nombre": "Paka Paka",
+  "site": "mi.tv",
+  "site_id": "ar#pakapaka",
+  "nombre_fuente": "Pakapaka",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "pasiones",
+  "nombre": "Pasiones",
+  "site": "mi.tv",
+  "site_id": "ar#pasiones",
+  "nombre_fuente": "Pasiones",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "penthouse_gold",
+  "nombre": "Penthouse Gold",
+  "site": "mi.tv",
+  "site_id": "ar#penthouse",
+  "nombre_fuente": "Penthouse Gold",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "playboy_tv",
+  "nombre": "Playboy TV",
+  "site": "mi.tv",
+  "site_id": "ar#playboy",
+  "nombre_fuente": "Playboy",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "space",
+  "nombre": "Space",
+  "site": "mi.tv",
+  "site_id": "ar#space",
+  "nombre_fuente": "Space",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "star_channel",
+  "nombre": "Star Channel",
+  "site": "mi.tv",
+  "site_id": "ar#fox",
+  "nombre_fuente": "Star Channel",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tcm",
+  "nombre": "TCM",
+  "site": "mi.tv",
+  "site_id": "ar#tcm",
+  "nombre_fuente": "TCM",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "telefe",
+  "nombre": "Telefe",
+  "site": "mi.tv",
+  "site_id": "ar#telefe",
+  "nombre_fuente": "Telefe",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "telehit",
+  "nombre": "TeleHit",
+  "site": "mi.tv",
+  "site_id": "ar#telehit-lat",
+  "nombre_fuente": "Telehit",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "telemax",
+  "nombre": "Telemax",
+  "site": "mi.tv",
+  "site_id": "ar#telemax",
+  "nombre_fuente": "Telemax",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "telemundo_internacional_1080p",
+  "nombre": "Telemundo Internacional",
+  "site": "mi.tv",
+  "site_id": "ar#telemundo",
+  "nombre_fuente": "Telemundo Internacional",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tlnovelas",
+  "nombre": "TLnovelas",
+  "site": "mi.tv",
+  "site_id": "ar#tlnovelas",
+  "nombre_fuente": "TLNovelas",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tn",
+  "nombre": "TN",
+  "site": "mi.tv",
+  "site_id": "ar#tn",
+  "nombre_fuente": "TN",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tnt",
+  "nombre": "TNT",
+  "site": "mi.tv",
+  "site_id": "ar#tnt",
+  "nombre_fuente": "TNT",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tnt_series",
+  "nombre": "TNT Series",
+  "site": "mi.tv",
+  "site_id": "ar#tnt-series",
+  "nombre_fuente": "TNT Series",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tooncast",
+  "nombre": "Tooncast",
+  "site": "mi.tv",
+  "site_id": "ar#tooncast",
+  "nombre_fuente": "Tooncast",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tv_ciudad",
+  "nombre": "TV CIUDAD",
+  "site": "mi.tv",
+  "site_id": "ar#teveciudad",
+  "nombre_fuente": "TV Ciudad",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tv_globo",
+  "nombre": "TV GLOBO",
+  "site": "mi.tv",
+  "site_id": "ar#tv-globo",
+  "nombre_fuente": "TV Globo",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tv_publica",
+  "nombre": "TV Pública",
+  "site": "mi.tv",
+  "site_id": "ar#canal-7-capital",
+  "nombre_fuente": "TV Pública",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tyc_sports",
+  "nombre": "TyC Sports",
+  "site": "mi.tv",
+  "site_id": "ar#tyc-sports",
+  "nombre_fuente": "TyC Sports",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "universal_tv",
+  "nombre": "UNIVERSAL TV",
+  "site": "mi.tv",
+  "site_id": "ar#universal-channel",
+  "nombre_fuente": "Universal TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "venus",
+  "nombre": "Venus",
+  "site": "mi.tv",
+  "site_id": "ar#venus",
+  "nombre_fuente": "Venus",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "volver",
+  "nombre": "Volver",
+  "site": "mi.tv",
+  "site_id": "ar#volver",
+  "nombre_fuente": "Volver",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "warner_tv",
+  "nombre": "Warner TV",
+  "site": "mi.tv",
+  "site_id": "ar#warner-channel",
+  "nombre_fuente": "Warner Channel",
+  "como": "manual"
+ },
+ {
+  "moai_id": "hola_tv",
+  "nombre": "🇪🇸 Hola TV",
+  "site": "mi.tv",
+  "site_id": "ar#hola-tv",
+  "nombre_fuente": "Hola TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tv_galicia",
+  "nombre": "🇪🇸 TV Galicia",
+  "site": "mi.tv",
+  "site_id": "ar#galicia-tv",
+  "nombre_fuente": "Galicia TV",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tve",
+  "nombre": "🇪🇸 TVE",
+  "site": "mi.tv",
+  "site_id": "ar#tve",
+  "nombre_fuente": "TVE",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "dhe",
+  "nombre": "🇺🇸 DHE",
+  "site": "mi.tv",
+  "site_id": "ar#dhe",
+  "nombre_fuente": "DHE",
+  "como": "exacto"
+ },
+ {
+  "moai_id": "tele_sur",
+  "nombre": "🇻🇪 Tele Sur",
+  "site": "mi.tv",
+  "site_id": "ar#telesur",
+  "nombre_fuente": "teleSUR",
+  "como": "exacto"
+ }
+]

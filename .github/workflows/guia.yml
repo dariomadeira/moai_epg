@@ -1,0 +1,72 @@
+name: Guía de programación
+
+# Todos los días a las 05:00 de Argentina (08:00 UTC) y a mano desde la
+# pestaña Actions ("Run workflow").
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guia
+  cancel-in-progress: false
+
+jobs:
+  guia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Este repositorio (lista de canales)
+        uses: actions/checkout@v4
+
+      - name: Lector de guías de iptv-org
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: epg
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: epg/package-lock.json
+
+      - name: Instalar el lector
+        working-directory: epg
+        run: npm ci --no-audit --no-fund
+
+      - name: Bajar la programación (hoy y mañana)
+        working-directory: epg
+        run: |
+          npm run grab --silent -- \
+            --channels=../moai.channels.xml \
+            --output=../salida/guia.xml \
+            --days=2 --maxConnections=5 | tee ../salida.log
+          grep -c '(0 programs)' ../salida.log || true
+
+      - name: Comprimir y resumir
+        run: |
+          programas=$(grep -c '<programme ' salida/guia.xml || true)
+          canales=$(grep -o 'channel="[^"]*"' salida/guia.xml | sort -u | wc -l)
+          if [ "$programas" -lt 200 ]; then
+            echo "::error::La guía salió casi vacía ($programas programas)"; exit 1
+          fi
+          gzip -9 -k salida/guia.xml
+          cat > salida/estado.json <<JSON
+          {"actualizada": "$(date -u +%Y-%m-%dT%H:%M:%SZ)", "canales": $canales, "programas": $programas}
+          JSON
+          cat salida/estado.json
+
+      - name: Publicar en la rama "guia"
+        working-directory: salida
+        run: |
+          rm guia.xml
+          git init -q -b guia
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add guia.xml.gz estado.json
+          git commit -q -m "Guía $(date -u +%Y-%m-%d)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" guia
